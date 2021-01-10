@@ -12,7 +12,7 @@ public class MysqlDatabaseEngine {
 	// connection string for mysql database connection
 	private String connectionString = "jdbc:mysql://localhost:3306/chat?serverTimezone=UTC";
 	private String username = "root";
-	private String password = "56835683";
+	private String password = "YourPassword";
 	private int result = 0;
 	private ResultSet resultQuery;
 	private IEntity JormObject;
